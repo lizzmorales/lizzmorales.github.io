@@ -1,0 +1,75 @@
+h1 {
+color:Blue;
+font-size: 30px;
+font-family: 'Special Elite', cursive;
+}
+
+h2 {
+color: black;
+font-size: 21px;
+font-family: 'Special Elite', cursive;
+
+}
+
+h3 {
+color: blue;
+font-family: 'Special Elite', cursive;
+font-size: 50px
+}
+
+img{
+size:180px;
+font-family: 'Special Elite', cursive;
+}
+
+body{
+  Background-image: url("watecolor.jpeg");
+}
+
+h4 {
+  color:black inherit;
+  font-size: 20px;
+  font-family: 'Special Elite', cursive;
+}
+
+h5 {
+  color:black inherit;
+  font-family: 'Special Elite', cursive;
+ font-size: 20px;
+
+}
+
+h6 {
+  color:black inherit;
+  font-family: 'Special Elite', cursive;
+  font-size: 20px;
+}
+
+h7 {
+  color: Blue;
+  font-family: 'Special Elite', cursive;
+  font-size: 30px
+}
+
+h8 {
+  color:black;
+  font-family: 'Special Elite', cursive;
+  font-size: 20px
+
+}
+
+h9 {
+  color:black;
+  font-family: 'Special Elite', cursive;
+  font-size: 20px;
+}
+
+profilepic{
+  font-family: 'Special Elite', cursive;
+  font-size: 20px;
+}
+p{
+  font-family: 'Special Elite', cursive;
+  color:Blue;
+  font-size: 80px
+}
